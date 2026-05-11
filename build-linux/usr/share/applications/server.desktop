@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=HTTP Server
+Comment=HTTP Server - Easy and Simple!
+Exec=/usr/local/bin/server
+Icon=server-icon-linux
+Terminal=false
+StartupNotify=true
+Categories=Network;Utility;FileTransfer;
+Keywords=server;http;file;share;
+MimeType=text/html;
